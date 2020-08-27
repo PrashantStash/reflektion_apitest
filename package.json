@@ -1,10 +1,9 @@
 {
-  "name": "bookstore",
+  "name": "reflektion-api-test-assignment",
   "version": "1.0.0",
-  "description": "A bookstore API",
-  "main": "server.js",
-  "author": "Sam",
-  "license": "ISC",
+  "description": "A solution in Typescript to test multiple APIs with different Verbs",
+  "author": "Prashant",
+  "license": "MIT",
   "dependencies": {
     "@types/chai": "^4.2.12",
     "@types/chai-json-schema": "^1.4.6",
