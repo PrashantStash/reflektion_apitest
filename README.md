@@ -4,7 +4,7 @@ A solution in Typescript to test multiple APIs with different Verbs
 ## Setup
 
 1. Install [node.js version 10+](https://nodejs.org/). This project uses modern Javascript features, that will not work in older versions.
-2. Clone this repository 
+2. Clone this repository `https://github.com/PrashantStash/reflektion_apitest.git`
 3. Install dependencies `npm install`
 4. Run tests via `npm run test`. It will compile the typescript files, start the mocha tests and create a report
 5. Run `npm run report` to build `html` report from results and it will be opened in your browser
